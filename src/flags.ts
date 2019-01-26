@@ -22,7 +22,7 @@ export const DEFAULT_FLAGS = [
   // Disable installation of default apps on first run
   '--disable-default-apps',
   // Mute any audio
-  '--mute-audio',
+  // '--mute-audio',
   // Skip first run wizards
   '--no-first-run',
 ];
